@@ -1,0 +1,2 @@
+# blog-website
+A fully authenticated, dynamically updating blogging website to create posts sharing thoughts, ideas, and experiences. A blogging website with user registration and login functionality, and along with this it provides the user with the feature of creating/Updating blogs and also read all the public blogs available. You can share information about yourself with other GitHub users by setting a profile picture and adding a bio to your profile. Build with React.js,Node.js and MongoDB
